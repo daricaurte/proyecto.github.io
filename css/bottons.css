@@ -1,0 +1,7 @@
+.btn { border-bottom: 1px dotted #dcdcdc; border-top: none; border-right: none;
+    border-right: none; border-left: none; padding: 5px; width: 280px; margin-bottom: 20px;
+    cursor: pointer; font-size: 21px;}
+.btn:focus { border: 1px dotted black; outline: none;}
+.btn#submit { color: #000000; background-color: rgb(253, 211, 43); border: none;
+    border-radius: 15px; width: 250px;}
+.btn#submit:hover { color: rgb(253, 211, 43); background-color: black;}
